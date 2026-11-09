@@ -1,0 +1,1 @@
+# Submission checklist\n\n- [ ] Run and test the README steps\n- [ ] Add screenshots of successful execution\n- [ ] Push this folder as a separate public GitHub repository\n- [ ] Never commit passwords, cloud keys, .env files, or Terraform state\n
